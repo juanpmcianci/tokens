@@ -86,7 +86,7 @@ class DEXGen:
 
 if __name__=='__main__':
     FACT_ADDRESS='0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
-    Infura_HTTP = 'https://mainnet.infura.io/v3/0616444dc78c4f9889ae8685a6156da6'
+    Infura_HTTP = 'https://mainnet.infura.io/v3/SOMETHINGSOMETHING'
     ERC20_ABI='erc20.json'
     UNI_V2_PAIR='univ2Pair.json'
     UNI_V2_FACTORY='univ2_abi.json'
